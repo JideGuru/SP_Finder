@@ -9,11 +9,10 @@ I made this project for people beginning **Flutter** so they can gain one or two
 
 
 # ScreenShots
-<img src="screenshots/1.jpg" width="48">
-![Screenshot](screenshots/1.jpg)
-![Screenshot](screenshots/2.jpg)
-![Screenshot](screenshots/3.jpg)
-![Screenshot](screenshots/4.jpg)
+<img src="screenshots/1.jpg" width="100">
+<img src="screenshots/2.jpg" width="100">
+<img src="screenshots/3.jpg" width="100">
+<img src="screenshots/4.jpg" width="100">
 
 
 # Requirements
