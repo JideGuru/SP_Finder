@@ -1,4 +1,4 @@
-# SP FInder
+# SP Finder
 
 A Flutter application that detects network of any Nigerian number
 
@@ -27,6 +27,8 @@ I made this project for people beginning **Flutter** so they can gain one or two
 
 # Contributors
 **Error 404**
+
+Pull requests are welcome.
 
 
 # License
