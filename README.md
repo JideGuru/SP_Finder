@@ -9,8 +9,8 @@ I made this project for people beginning **Flutter** so they can gain one or two
 
 
 # ScreenShots
-<img src="screenshots/1.jpg" width="200"><img src="screenshots/2.jpg" width="200">
-<img src="screenshots/3.jpg" width="200"><img src="screenshots/4.jpg" width="300">
+<img src="screenshots/1.jpg" width="250"><img src="screenshots/2.jpg" width="250">
+<img src="screenshots/3.jpg" width="250"><img src="screenshots/4.jpg" width="250">
 
 
 
