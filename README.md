@@ -51,6 +51,6 @@ limitations under the License.
 # Disclaimer
 This code is only intended for learning purposes, i am not responsible for anything you use it for.
 
-Pardon my Bad English 😔
+Pardon my Bad English 😔.
 
 Enjoy if you like what you see😃
