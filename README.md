@@ -33,7 +33,7 @@ Pull requests are welcome.
 
 # License
 ```
-Copyright [2018] [JideGuru]
+Copyright [2018] [Olusegun Festus Babajide]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
